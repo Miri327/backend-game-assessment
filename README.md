@@ -22,6 +22,7 @@ Execute the main.js script to demonstrate the logic.
 הרצה: הריצו את הפקודה הבאה בטרמינל מתוך תיקיית הפרויקט:
 
 docker-compose up --build
+
 מה המערכת מבצעת:
 מסד נתונים: הקמת קונטיינר PostgreSQL.
 
