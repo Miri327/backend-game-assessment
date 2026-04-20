@@ -16,11 +16,11 @@ Run Prisma migrations.
 Execute the main.js script to demonstrate the logic.
 
 הוראות הרצה
+
 דרישות קדם: ודאו שתוכנת Docker Desktop מותקנת ופעילה.
 
 הרצה: הריצו את הפקודה הבאה בטרמינל מתוך תיקיית הפרויקט:
 
-Bash
 docker-compose up --build
 מה המערכת מבצעת:
 מסד נתונים: הקמת קונטיינר PostgreSQL.
